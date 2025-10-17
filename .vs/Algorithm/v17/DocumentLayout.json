@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\Study\\2025-2\\\uC54C\uACE0\uB9AC\uC998\\Algorithm\\",
+  "WorkspaceRootPath": "C:\\Users\\seung\\Desktop\\study\\2025-2\uD559\uAE30(4-2)\\Algorithm\\Algorithm\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9DB894D4-48BD-48BB-8428-6DAADE1A999F}|Dijkstra_Floyd\\Dijkstra_Floyd.vcxproj|C:\\Users\\USER\\Desktop\\Study\\2025-2\\\uC54C\uACE0\uB9AC\uC998\\Algorithm\\Dijkstra_Floyd\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{9DB894D4-48BD-48BB-8428-6DAADE1A999F}|Dijkstra_Floyd\\Dijkstra_Floyd.vcxproj|C:\\Users\\seung\\Desktop\\study\\2025-2\uD559\uAE30(4-2)\\Algorithm\\Algorithm\\Dijkstra_Floyd\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{9DB894D4-48BD-48BB-8428-6DAADE1A999F}|Dijkstra_Floyd\\Dijkstra_Floyd.vcxproj|solutionrelative:Dijkstra_Floyd\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{577F5251-8C57-466C-A679-6567A5490D17}|Kruskal_Prim_MST\\Kruskal_Prim_MST.vcxproj|C:\\Users\\USER\\Desktop\\Study\\2025-2\\\uC54C\uACE0\uB9AC\uC998\\Algorithm\\Kruskal_Prim_MST\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{577F5251-8C57-466C-A679-6567A5490D17}|Kruskal_Prim_MST\\Kruskal_Prim_MST.vcxproj|C:\\Users\\seung\\Desktop\\study\\2025-2\uD559\uAE30(4-2)\\Algorithm\\Algorithm\\Kruskal_Prim_MST\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{577F5251-8C57-466C-A679-6567A5490D17}|Kruskal_Prim_MST\\Kruskal_Prim_MST.vcxproj|solutionrelative:Kruskal_Prim_MST\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -24,9 +24,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.c",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Study\\2025-2\\\uC54C\uACE0\uB9AC\uC998\\Algorithm\\Dijkstra_Floyd\\main.c",
+              "DocumentMoniker": "C:\\Users\\seung\\Desktop\\study\\2025-2\uD559\uAE30(4-2)\\Algorithm\\Algorithm\\Dijkstra_Floyd\\main.c",
               "RelativeDocumentMoniker": "Dijkstra_Floyd\\main.c",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\Study\\2025-2\\\uC54C\uACE0\uB9AC\uC998\\Algorithm\\Dijkstra_Floyd\\main.c",
+              "ToolTip": "C:\\Users\\seung\\Desktop\\study\\2025-2\uD559\uAE30(4-2)\\Algorithm\\Algorithm\\Dijkstra_Floyd\\main.c",
               "RelativeToolTip": "Dijkstra_Floyd\\main.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
@@ -37,14 +37,13 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "main.c",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Study\\2025-2\\\uC54C\uACE0\uB9AC\uC998\\Algorithm\\Kruskal_Prim_MST\\main.c",
+              "DocumentMoniker": "C:\\Users\\seung\\Desktop\\study\\2025-2\uD559\uAE30(4-2)\\Algorithm\\Algorithm\\Kruskal_Prim_MST\\main.c",
               "RelativeDocumentMoniker": "Kruskal_Prim_MST\\main.c",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\Study\\2025-2\\\uC54C\uACE0\uB9AC\uC998\\Algorithm\\Kruskal_Prim_MST\\main.c",
+              "ToolTip": "C:\\Users\\seung\\Desktop\\study\\2025-2\uD559\uAE30(4-2)\\Algorithm\\Algorithm\\Kruskal_Prim_MST\\main.c",
               "RelativeToolTip": "Kruskal_Prim_MST\\main.c",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAM4AAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-09-22T16:29:31.811Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-22T16:29:31.811Z"
             }
           ]
         }
