@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Kruskal_Prim_MST", "Kruskal
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Dijkstra_Floyd", "Dijkstra_Floyd\Dijkstra_Floyd.vcxproj", "{9DB894D4-48BD-48BB-8428-6DAADE1A999F}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sorting_Algorithm_Comparison", "Sorting_Algorithm_Comparison\Sorting_Algorithm_Comparison.vcxproj", "{9E109689-15C8-4B36-ADBE-83A8569674A1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{9DB894D4-48BD-48BB-8428-6DAADE1A999F}.Release|x64.Build.0 = Release|x64
 		{9DB894D4-48BD-48BB-8428-6DAADE1A999F}.Release|x86.ActiveCfg = Release|Win32
 		{9DB894D4-48BD-48BB-8428-6DAADE1A999F}.Release|x86.Build.0 = Release|Win32
+		{9E109689-15C8-4B36-ADBE-83A8569674A1}.Debug|x64.ActiveCfg = Debug|x64
+		{9E109689-15C8-4B36-ADBE-83A8569674A1}.Debug|x64.Build.0 = Debug|x64
+		{9E109689-15C8-4B36-ADBE-83A8569674A1}.Debug|x86.ActiveCfg = Debug|Win32
+		{9E109689-15C8-4B36-ADBE-83A8569674A1}.Debug|x86.Build.0 = Debug|Win32
+		{9E109689-15C8-4B36-ADBE-83A8569674A1}.Release|x64.ActiveCfg = Release|x64
+		{9E109689-15C8-4B36-ADBE-83A8569674A1}.Release|x64.Build.0 = Release|x64
+		{9E109689-15C8-4B36-ADBE-83A8569674A1}.Release|x86.ActiveCfg = Release|Win32
+		{9E109689-15C8-4B36-ADBE-83A8569674A1}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
